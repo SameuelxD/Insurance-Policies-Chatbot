@@ -1,0 +1,19 @@
+services:
+  api:
+    build: ./api_ai
+    networks:
+      - ins_chat_network
+
+  ui:
+    build: ./ui
+    ports:
+      - "8501:8501"
+    networks:
+      - ins_chat_network
+    depends_on:
+      - api
+
+
+networks:
+  ins_chat_network:
+    driver: bridge

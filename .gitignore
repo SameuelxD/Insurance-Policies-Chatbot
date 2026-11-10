@@ -1,0 +1,4 @@
+.env
+project_env
+temp_uploads
+__pycache__
