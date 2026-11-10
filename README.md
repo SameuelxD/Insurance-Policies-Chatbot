@@ -9,7 +9,7 @@
 
 An intelligent, multi-tool agent designed to revolutionize the insurance industry by optimizing policy creation, risk assessment, and information retrieval.
 
-**Github repository**: [Insurance Policy AI Assistant](https://github.com/ji-berti/Insurance_Chatbot)
+**Github repository**: [Insurance Policy AI Assistant](https://github.com/SameuelxD/Insurance-Policies-Chatbot)
 
 ---
 
@@ -139,9 +139,9 @@ You must have the following installed:
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/ji-berti/Insurance_Chatbot.git
+    git clone [https://github.com/SameuelxD/Insurance-Policies-Chatbot.git]
     
-    cd Insurance_Chatbot/
+    cd Insurance-Policies-Chatbot/
     ```
 
 2.  **Create the environment file:**
@@ -175,4 +175,4 @@ This project was developed by:
 - **Juan Ignacio Berti** - [ji-berti](https://github.com/ji-berti)
 - **Nicole Condori** - [Nicolecondori2](https://github.com/Nicolecondori2)
 - **Harold Alvarez Restrepo** - [haroldalre](https://github.com/haroldalre)
-- **Jose Samuel Alvarez Silva**
+- **Jose Samuel Alvarez Silva** - [SameuelxD](https://github.com/SameuelxD)
