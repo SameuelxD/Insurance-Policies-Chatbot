@@ -1,0 +1,26 @@
+# For Agent and LLM
+langchain>=0.3,<0.4
+langchain-core>=0.3,<0.4
+langchain-community>=0.3,<0.4
+langchain-text-splitters>=0.3,<0.4
+langchain-google-genai>=2.0,<3.0
+
+
+# For document processing and vectorization
+huggingface-hub
+transformers
+sentence-transformers
+pypdf
+
+# For vector database
+faiss-cpu
+
+# For API and web server
+fastapi
+uvicorn
+
+# For environment management
+python-dotenv
+python-multipart
+
+ddgs
